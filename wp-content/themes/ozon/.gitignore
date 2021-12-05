@@ -41,6 +41,8 @@ fabfile.pyc
 **/node_modules/*
 npm-debug.log
 node_modules
+logs
+conf
 
 # File types that shouldn't be tracked
 *.sql
